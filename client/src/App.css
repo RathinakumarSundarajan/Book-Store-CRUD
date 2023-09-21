@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: small;
+  color: #fff;
+}
+.button:hover{
+  background-color: #002ead;
+  transition: 0.7s;
+}
+.button{
+  color: #ff0019;
+  border-radius: 10rem;
+}
+.App{
+  background: rgb(2,0,36);
+background: linear-gradient(90deg, rgb(90, 2, 87)10%, rgb(118, 2, 141) 35%, rgb(55, 235, 94) 120%);
+}
